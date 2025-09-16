@@ -38,6 +38,10 @@ With the shortcut **Ctrl + Alt + V**, you can paste text into any field of forms
 2. Place your cursor in the target field or application.  
 3. Press **Ctrl + Alt + V** → the text will be typed out automatically.  
 
+💡 **Recommendation:**  
+When using text editors or form fields that have **auto-completion** or **auto-spacing** features, it is recommended to disable them temporarily.  
+These features can interfere with the simulated typing process, since the copied text usually already contains the correct spaces and formatting.  
+
 ---
 
 ## ⚠️ Limitations  
