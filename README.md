@@ -6,6 +6,11 @@ With the shortcut **Ctrl + Alt + V**, you can paste text into any field of forms
 
 ---
 
+## Demo Video
+📺 Watch it in action: [YouTube](https://www.youtube.com/watch?v=A_HRi-9CGFY)
+
+---
+
 ## 🚀 Features  
 - Type text from the clipboard into any active window.  
 - Simulates human typing instead of just pasting.  
